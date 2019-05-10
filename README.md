@@ -1,0 +1,1 @@
+# hudl-dynamodb-adapter
